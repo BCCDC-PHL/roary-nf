@@ -1,0 +1,8 @@
+name: roary
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3
+  - roary=3.13.0
+  - blast=2.16.0
